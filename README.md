@@ -17,11 +17,11 @@ The Accuracy and Attack Success Rate is not substantially different from the pru
 
 ### Step 1: Downloading data 
 
-Download the data zip file using the given link
+Download the zip file using the given link
 
 https://drive.google.com/file/d/15sxgJdO9U6OkMJ4gZ80ur1_Xi1cDp1Da/view?usp=sharing
 
-### Step 2: Extract folder containing data and loading it
+### Step 2: Extract the data folder and loading it
 
 Unzip the zip file and upload each file individually on to colab with data being the root folder or Upload the unzipped folder along with its contents to Google Drive (Quicker Approach and the one used)
 
